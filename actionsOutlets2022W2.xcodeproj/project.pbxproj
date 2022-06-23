@@ -14,6 +14,7 @@
 		BDB8C58028639FD500037811 /* actionsOutlets2022W2.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BDB8C57E28639FD500037811 /* actionsOutlets2022W2.xcdatamodeld */; };
 		BDB8C58228639FD600037811 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDB8C58128639FD600037811 /* Assets.xcassets */; };
 		BDB8C58528639FD600037811 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDB8C58328639FD600037811 /* LaunchScreen.storyboard */; };
+		BDB8C58D2863A16E00037811 /* bestPicture.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BDB8C58C2863A16E00037811 /* bestPicture.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BDB8C58128639FD600037811 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDB8C58428639FD600037811 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDB8C58628639FD600037811 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDB8C58C2863A16E00037811 /* bestPicture.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bestPicture.jpeg; path = ../../../../Downloads/bestPicture.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BDB8C57928639FD500037811 /* ViewController.swift */,
 				BDB8C57B28639FD500037811 /* Main.storyboard */,
 				BDB8C58128639FD600037811 /* Assets.xcassets */,
+				BDB8C58C2863A16E00037811 /* bestPicture.jpeg */,
 				BDB8C58328639FD600037811 /* LaunchScreen.storyboard */,
 				BDB8C58628639FD600037811 /* Info.plist */,
 				BDB8C57E28639FD500037811 /* actionsOutlets2022W2.xcdatamodeld */,
@@ -130,6 +133,7 @@
 			files = (
 				BDB8C58528639FD600037811 /* LaunchScreen.storyboard in Resources */,
 				BDB8C58228639FD600037811 /* Assets.xcassets in Resources */,
+				BDB8C58D2863A16E00037811 /* bestPicture.jpeg in Resources */,
 				BDB8C57D28639FD500037811 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

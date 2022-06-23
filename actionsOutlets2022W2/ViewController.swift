@@ -14,6 +14,16 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+   
+    @IBOutlet weak var labelOnasdfe: UILabel!
+    
+    @IBOutlet weak var textFieldOne: UITextField!
+    
+    @IBAction func buttonOneTapped(_ sender: Any) {
+        if let newTitle = textFieldOne.text{
+            labelOne.text = newTitle
+        }
+    }
+    
 }
 
